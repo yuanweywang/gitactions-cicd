@@ -1,11 +1,13 @@
 def hello():
-  print('Guten Tag')
+    print("Guten Tag")
+
 
 def morning():
-  print("Morgen")
+    print("Morgen")
 
 
 def bye():
-    print('Tschüss')
+    print("Tschüss")
+
 
 print(hello())
